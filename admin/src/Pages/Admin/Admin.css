@@ -1,0 +1,16 @@
+
+@media (max-width:800px) {
+.admin{
+flex-direction: column;
+}
+}
+.admin {
+  display: flex;
+  width: 100%;
+  min-height: 100vh; 
+}
+
+.admin-content {
+  flex: 1;    
+  padding: 20px;
+}
